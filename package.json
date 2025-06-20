@@ -1,0 +1,14 @@
+{
+  "name": "standerd_user",
+  "version": "1.0.0",
+  "description": "selenium automation ",
+  "main": "test3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sumon",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.33.0"
+  }
+}
