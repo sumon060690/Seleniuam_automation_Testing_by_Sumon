@@ -1,4 +1,4 @@
-# Q2 Automation Test Report – SauceDemo (30 Marks)
+# Q2 Automation Test Report – SauceDemo
 ## Objective:
 Automate the following user journey using Selenium with JavaScript:
 Login with standard_user.
